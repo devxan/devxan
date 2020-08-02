@@ -5,6 +5,6 @@ But you can me Xan.
 - 🌱 I’m currently learning more about userscripts and the prototyping tool [Figma](https://www.figma.com/). 
 - 🤔 I don't know a lot about Git. 
 - 💬 Ask me about [Scratch](https://Scrach.mit.edu/)
-- 📫 How to reach me: (via Scratch:) [Ani-Xan](https://Scrach.mit.edu/users/Ani-Xan/)
+- 📫 How to reach me: (via Scratch) [Ani-Xan](https://Scrach.mit.edu/users/Ani-Xan/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I almost died when I was born. (Fun, right?)
