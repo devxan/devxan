@@ -1,10 +1,11 @@
 ### Hi there 👋 I'm Ani-Xan 
 But you can me Xan. 
-- 👍 Check out my [Gists](https://gist.github.com/Ani-Xan)! 
-- 🔭 I’m currently working on animations on [Scratch](https://Scrach.mit.edu/users/Ani-Xan/) 
-- 🌱 I’m currently learning more about userscripts and the prototyping tool [Figma](https://www.figma.com/). 
-- 🤔 I don't know a lot about Git. 
-- 💬 Ask me about [Scratch](https://Scrach.mit.edu/)
+- 👍 You should check out my [Gists](https://gist.github.com/Ani-Xan).
+- 🔭 I work on animations on [Scratch](https://Scrach.mit.edu/users/Ani-Xan/)!
+- 🌱 I use the prototyping tool [Figma](https://www.figma.com/) as my graphic design platform, even though it's for prototyping. 
+- 🤔 I don't know a lot about coding in general, only the block code language [Scratch](https://Scrach.mit.edu/), which is based off of google's "[Blocky](https://developers.google.com/blockly)"
 - 📫 How to reach me: (via Scratch) [Ani-Xan](https://Scrach.mit.edu/users/Ani-Xan/)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I almost died when I was born. (Fun, right?)
+- ⚡ Fun fact: I almost died when I was born. (Fun, right? LOL, not really.)
+- 🎮 I play Minecraft Java Edition as "Xanilan". I usually play on [InvadedLands](http://invadedlands.net/) Survival, but you can sometimes find me on [Skyblock Network](https://www.skyblocknetwork.com/) or [Hypixel](https://hypixel.net/).
+- Check out [ScratchAddons](https://scratchaddons.com/), the best extension ever for the Scratch website. ([I helped](https://scratchaddons.com/contributors#contributors:~:text=Ani%2DXan)!) 
