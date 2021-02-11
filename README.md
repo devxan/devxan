@@ -7,5 +7,5 @@ But you can me Xan.
 - 📫 How to reach me: (via Scratch) [Ani-Xan](https://Scrach.mit.edu/users/-Xanimation-/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I almost died when I was born. (Fun, right? LOL, not really.)
-- 🎮 I play Minecraft Java Edition as "Xanilan". I usually play on [InvadedLands](http://invadedlands.net/) Survival, but you can sometimes find me on [Skyblock Network](https://www.skyblocknetwork.com/) or [Hypixel](https://hypixel.net/).
+- 🎮 I play Minecraft Java Edition as "Xanilan". I usually play on [Hypixel](https://hypixel.net/), but you can sometimes find me on other Minecraft servers.
 - 🎉 Check out [ScratchAddons](https://scratchaddons.com/), the best extension ever for the Scratch website. ([I helped](https://scratchaddons.com/contributors)!) 
