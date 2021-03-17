@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm devxan 
-But you can me Xan. 
+But you ~~can~~ **SHOULD** me Xan. 
 - 👍 You should check out my [Gists](https://gist.github.com/devxan).
 - 🔭 I work on animations on [Scratch](https://Scrach.mit.edu/users/-Xanimation-/)!
 - 🌱 I use the prototyping tool [Figma](https://www.figma.com/) as my graphic design platform, even though it's for prototyping. 
