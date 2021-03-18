@@ -1,4 +1,4 @@
-# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm devxan
+# Hi there <img src="https://raw.githubusercontent.com/devxan/devxan/master/wave.gif" width="30px"> I'm devxan
 ### Scratcher and Graphic Designer
 #### (But please just call me Xan)
 
