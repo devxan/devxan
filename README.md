@@ -1,6 +1,8 @@
-<h1 align="center">Hi there 👋 I'm devxan</h1>
-<h3 align="center">Scratcher and Graphic Designer</h3>
-<h4 align="center">(But please just call me Xan)</h4>
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm devxan
+### Scratcher and Graphic Designer
+#### (But please just call me Xan)
+
+![Visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=devxan.visitor.badge.reloaded&color=ff5959&style=for-the-badge&logo=github)
 
 - 👍 You should check out my [Gists](https://gist.github.com/devxan).
 - 🔭 I work on animations on [Scratch](https://Scrach.mit.edu/users/-Xanimation-/)!
@@ -17,4 +19,4 @@
 
 <h3 align="left">Github Stats</h3>
 
-[![Xan's GitHub stats](https://github-readme-stats.vercel.app/api?username=devxan)](https://github.com/anuraghazra/github-readme-stats)
+[![Xan's GitHub stats](https://github-readme-stats.vercel.app/api?username=devxan&bg_color=30,ff5959,904e95&title_color=fff&text_color=fff&icon_color=fff&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
