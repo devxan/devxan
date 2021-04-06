@@ -38,9 +38,9 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/FlagClicked/Contributors/issues/1) in [FlagClicked/Contributors](https://github.com/FlagClicked/Contributors)
-2. 🗣 Commented on [#1889](https://github.com/ScratchAddons/ScratchAddons/issues/1889) in [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons)
-3. 🗣 Commented on [#1554](https://github.com/ScratchAddons/ScratchAddons/issues/1554) in [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons)
-4. 🗣 Commented on [#1499](https://github.com/ScratchAddons/ScratchAddons/issues/1499) in [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons)
+1. 🗣 Commented on [#4](https://github.com/tesilio/auto-clicker/issues/4) in [tesilio/auto-clicker](https://github.com/tesilio/auto-clicker)
+2. 🗣 Commented on [#1](https://github.com/FlagClicked/Contributors/issues/1) in [FlagClicked/Contributors](https://github.com/FlagClicked/Contributors)
+3. 🗣 Commented on [#1889](https://github.com/ScratchAddons/ScratchAddons/issues/1889) in [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons)
+4. 🗣 Commented on [#1554](https://github.com/ScratchAddons/ScratchAddons/issues/1554) in [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons)
 5. 🗣 Commented on [#1499](https://github.com/ScratchAddons/ScratchAddons/issues/1499) in [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons)
 <!--END_SECTION:activity-->
