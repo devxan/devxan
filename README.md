@@ -38,9 +38,9 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Reopened issue [#1](https://github.com/retronbv/retronbv/issues/1) in [retronbv/retronbv](https://github.com/retronbv/retronbv)
-2. ❗️ Closed issue [#1](https://github.com/retronbv/retronbv/issues/1) in [retronbv/retronbv](https://github.com/retronbv/retronbv)
-3. 🗣 Commented on [#1](https://github.com/retronbv/retronbv/issues/1) in [retronbv/retronbv](https://github.com/retronbv/retronbv)
+1. 🗣 Commented on [#1](https://github.com/retronbv/retronbv/issues/1) in [retronbv/retronbv](https://github.com/retronbv/retronbv)
+2. ❗️ Reopened issue [#1](https://github.com/retronbv/retronbv/issues/1) in [retronbv/retronbv](https://github.com/retronbv/retronbv)
+3. ❗️ Closed issue [#1](https://github.com/retronbv/retronbv/issues/1) in [retronbv/retronbv](https://github.com/retronbv/retronbv)
 4. 🗣 Commented on [#1](https://github.com/retronbv/retronbv/issues/1) in [retronbv/retronbv](https://github.com/retronbv/retronbv)
-5. ❗️ Opened issue [#1](https://github.com/retronbv/retronbv/issues/1) in [retronbv/retronbv](https://github.com/retronbv/retronbv)
+5. 🗣 Commented on [#1](https://github.com/retronbv/retronbv/issues/1) in [retronbv/retronbv](https://github.com/retronbv/retronbv)
 <!--END_SECTION:activity-->
