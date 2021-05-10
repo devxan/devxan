@@ -26,7 +26,7 @@
 
 ### Connect
 <a href="https://www.figma.com/@Xan/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-<a href="https://scratch.mit.edu/users/-Xanimation-/" target="_blank"> <img src="https://scratch.mit.edu/static/assets/1e9652bec24bcaacf5285be19746a750.svg" alt="scratch" width="80" height="40"/></a> <a href="https://discordapp.com/users/687328712084946973/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" alt="discord" width="40" height="40"/></a>
+<a href="https://scratch.mit.edu/users/-Xanimation-/" target="_blank"> <img src="https://scratch.mit.edu/static/assets/1e9652bec24bcaacf5285be19746a750.svg" alt="scratch" width="80" height="40"/></a> <a href="https://discordapp.com/users/687328712084946973/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" alt="discord" width="40" height="40"/></a> <a href="https://replit.com/@Xanilan/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/replit/replit-icon.svg" alt="discord" width="40" height="40"/></a>
 
 <hr>
 
