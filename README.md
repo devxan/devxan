@@ -1,4 +1,4 @@
-# Hi there <img src="https://raw.githubusercontent.com/devxan/devxan/master/wave.gif" width="30px"> I'm devxan
+# Hi there <a href="https://ppl.moe/u/xanny/" target="_blank"><img src="https://raw.githubusercontent.com/devxan/devxan/master/wave.gif" width="30px"></a> I'm devxan
 ### Scratcher and Graphic Designer
 (But you **MUST** call me Xan)
 
