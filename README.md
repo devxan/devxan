@@ -31,7 +31,7 @@
 <hr>
 
 ### Github Stats 
-[![Xan's GitHub stats](https://github-readme-stats.vercel.app/api?username=devxan&bg_color=30,ff5959,904e95&title_color=fff&text_color=fff&icon_color=fff&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Xan's GitHub stats](https://github-readme-stats.vercel.app/api?username=devxan&bg_color=30,ff5959,ff6969&title_color=fff&text_color=fff&icon_color=fff&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
 
