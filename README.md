@@ -16,7 +16,7 @@
 - 🔭 I work on animations on [Scratch](https://Scrach.mit.edu/users/-Xanimation-/)!
 - 🌱 I use the prototyping tool [Figma](https://www.figma.com/) as my graphic design platform, even though it's for prototyping. 
 - 🤔 I don't know a lot about coding in general, but I use the block code language [Scratch](https://Scrach.mit.edu/).
-- 😄 Pronouns: He/His
+- 😄 I'm a male teenager who likes #ff5959 a little to much. I also like #59ff59 & #5959ff! 
 - 👍 You should check out my [Gists](https://gist.github.com/devxan).
 - 🎉 Check out [ScratchAddons](https://scratchaddons.com/), the best extension ever for the Scratch website. ([I helped](https://scratchaddons.com/contributors)!) 
 - Also make sure you look into **[this](https://github.com/hipvpitsme/discord-rpc-with-buttons)** cool thing for Discord. I love it and think you would too. 
@@ -25,8 +25,8 @@
 <hr>
 
 ### Connect
-<a href="https://www.figma.com/@Xan/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-<a href="https://scratch.mit.edu/users/-Xanimation-/" target="_blank"> <img src="https://scratch.mit.edu/static/assets/1e9652bec24bcaacf5285be19746a750.svg" alt="scratch" width="80" height="40"/></a> <a href="https://discordapp.com/users/687328712084946973/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" alt="discord" width="40" height="40"/></a> <a href="https://replit.com/@Xanilan/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/replit/replit-icon.svg" alt="replit" width="40" height="40"/></a> <a href="https://github.com/devxan/devxan/discussions/" target="_blank"> <img src="https://upload.vectorlogo.zone/logos/github/images/47bfd2d4-712f-4dee-9315-f99c611b7598.svg" alt="github" width="40" height="40"/></a>
+<a href="https://www.figma.com/@Xan/" target="_blank"><img src="https://raw.githubusercontent.com/devxan/devxan/master/icons/Figma.svg" alt="figma" width="40" height="40"/></a>
+<a href="https://scratch.mit.edu/users/-Xanimation-/" target="_blank"> <img src="https://raw.githubusercontent.com/devxan/devxan/master/icons/Scratch.svg" alt="scratch" width="80" height="40"/></a> <a href="https://discord.com/users/687328712084946973/" target="_blank"> <img src="https://raw.githubusercontent.com/devxan/devxan/master/icons/Discord.svg" alt="discord" width="40" height="40"/></a> <a href="https://replit.com/@Xanilan/" target="_blank"> <img src="https://raw.githubusercontent.com/devxan/devxan/master/icons/Replit.svg" alt="replit" width="40" height="40"/></a> <a href="https://github.com/devxan/devxan/discussions/" target="_blank"> <img src="https://raw.githubusercontent.com/devxan/devxan/master/icons/Github.svg" alt="github" width="40" height="40"/></a>
 
 <hr>
 
