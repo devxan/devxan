@@ -66,6 +66,11 @@ _ᕦ(ò_óˇ)ᕤ_
 
  > btw all images on my readme are linked to something 😏
 
+<details>
+ <summary>I collapsed this all for you, you're welcome. 😀</summary>
+
+But you've opened it back up again! How rude! 😧 (Just kidding, it's perfectly fine to learn cool things. Just make sure to follow me if you use any of these!)
+
 I personally think that this profile it pretty cool, but it would be absolutely garbage without these various tools & examples. (I haven't tried some of these, tell me what you think! I'll have to read these thru later. 😳)
 - https://github.com/anuraghazra/github-readme-stats
 - https://github.com/abhisheknaiidu/awesome-github-profile-readme
@@ -80,3 +85,5 @@ I personally think that this profile it pretty cool, but it would be absolutely 
 - https://github.com/DenverCoder1/readme-typing-svg
 - https://github.com/anmol098/waka-readme-stats
 - https://github.com/aralroca/aralroca
+
+ </details>
