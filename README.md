@@ -12,7 +12,7 @@
 
 <hr>
 
-### Some bullet points
+### Some Bullet Points
 - 🌱 I use the prototyping tool [Figma](https://www.figma.com/) as my graphic design platform, even though it's for prototyping. 
 - 🤔 I don't know a lot about coding in general, but I use the block code language [Scratch](https://Scrach.mit.edu/).
 - 😄 I'm a male teenager who likes #ff5959 a little to much. I also like #59ff59 & #5959ff! 
@@ -42,3 +42,24 @@
 4. ❗️ Reopened issue [#1](https://github.com/retronbv/retronbv/issues/1) in [retronbv/retronbv](https://github.com/retronbv/retronbv)
 5. ❗️ Closed issue [#1](https://github.com/retronbv/retronbv/issues/1) in [retronbv/retronbv](https://github.com/retronbv/retronbv)
 <!--END_SECTION:activity-->
+
+<hr>
+
+### Profile Creation
+
+ > btw all images on my readme are linked to something 😏
+
+I personally think that this profile it pretty cool, but it would be absolutely garbage without these various tools & examples. (I haven't tried some of these, tell me what you think! I'll have to read these thru later. 😳)
+- https://github.com/anuraghazra/github-readme-stats
+- https://github.com/abhisheknaiidu/awesome-github-profile-readme
+- https://shields.io/
+- https://github.com/marketplace?type=actions&query=readme (note to self - click all the buttons)
+- https://github.com/marketplace/actions/profile-readme
+- https://github.com/Readme-Workflows
+- https://vidyabhandary.github.io/blog/github/2020/07/27/Self-updating-profile-readme.html
+- https://visitor-badge.glitch.me/#docs
+- https://github.com/jamesgeorge007/github-activity-readme
+- https://github.com/ryo-ma/github-profile-trophy
+- https://github.com/DenverCoder1/readme-typing-svg
+- https://github.com/anmol098/waka-readme-stats
+- https://github.com/aralroca/aralroca
