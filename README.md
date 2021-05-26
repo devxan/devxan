@@ -13,14 +13,12 @@
 <hr>
 
 ### Some bullet points
-- 🔭 I work on animations on [Scratch](https://Scrach.mit.edu/users/-Xanimation-/)!
 - 🌱 I use the prototyping tool [Figma](https://www.figma.com/) as my graphic design platform, even though it's for prototyping. 
 - 🤔 I don't know a lot about coding in general, but I use the block code language [Scratch](https://Scrach.mit.edu/).
 - 😄 I'm a male teenager who likes #ff5959 a little to much. I also like #59ff59 & #5959ff! 
-- 👍 You should check out my [Gists](https://gist.github.com/devxan).
 - 🎉 Check out [ScratchAddons](https://scratchaddons.com/), the best extension ever for the Scratch website. ([I helped](https://scratchaddons.com/contributors)!) 
 - Also make sure you look into **[this](https://github.com/hipvpitsme/discord-rpc-with-buttons)** cool thing for Discord. I love it and think you would too. 
-- I am a student with Github PRO and a bunch of other awesome free things I received from the student developer pack. Get it **[here](https://education.github.com/pack/)**.
+- I am a student who received a few awesome things from the student developer pack. Get it **[here](https://education.github.com/pack/)**.
 
 <hr>
 
