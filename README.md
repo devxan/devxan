@@ -25,8 +25,8 @@
 <hr>
 
 ### Connect
-<a href="https://www.figma.com/@Xan/" target="_blank"><img src="https://raw.githubusercontent.com/devxan/devxan/master/icons/Figma.svg" alt="figma" width="40" height="40"/></a>
-<a href="https://scratch.mit.edu/users/-Xanimation-/" target="_blank"> <img src="https://raw.githubusercontent.com/devxan/devxan/master/icons/Scratch.svg" alt="scratch" width="80" height="40"/></a> <a href="https://discord.com/users/687328712084946973/" target="_blank"> <img src="https://raw.githubusercontent.com/devxan/devxan/master/icons/Discord.svg" alt="discord" width="40" height="40"/></a> <a href="https://replit.com/@Xanilan/" target="_blank"> <img src="https://raw.githubusercontent.com/devxan/devxan/master/icons/Replit.svg" alt="replit" width="40" height="40"/></a> <a href="https://github.com/devxan/devxan/discussions/" target="_blank"> <img src="https://raw.githubusercontent.com/devxan/devxan/master/icons/Github.svg" alt="github" width="40" height="40"/></a>
+<a href="https://www.figma.com/@Xan/" target="_blank"><img src="https://raw.githubusercontent.com/devxan/devxan/master/icons/Figma.svg" alt="figma" width="80" height="80"/></a>
+<a href="https://scratch.mit.edu/users/-Xanimation-/" target="_blank"> <img src="https://raw.githubusercontent.com/devxan/devxan/master/icons/Scratch.svg" alt="scratch" width="160" height="80"/></a> <a href="https://discord.com/users/687328712084946973/" target="_blank"> <img src="https://raw.githubusercontent.com/devxan/devxan/master/icons/Discord.svg" alt="discord" width="80" height="80"/></a> <a href="https://replit.com/@Xanilan/" target="_blank"> <img src="https://raw.githubusercontent.com/devxan/devxan/master/icons/Replit.svg" alt="replit" width="80" height="80"/></a> <a href="https://github.com/devxan/devxan/discussions/" target="_blank"> <img src="https://raw.githubusercontent.com/devxan/devxan/master/icons/Github.svg" alt="github" width="80" height="80"/></a>
 
 <hr>
 
