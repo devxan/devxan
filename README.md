@@ -1,6 +1,7 @@
 # Hi there <a href="https://ppl.moe/u/xanny/" target="_blank"><img src="https://raw.githubusercontent.com/devxan/devxan/master/wave.gif" width="30px"></a> I'm devxan
 ### Scratcher and Graphic Designer
-(But everyone calls me Xan)
+(But everyone calls me Xan) 
+_ᕦ(ò_óˇ)ᕤ_
 
  [![Profile Visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=devxan.visitor.badge.reloaded&color=ff5959&style=for-the-badge&logo=github)](https://github.com/devxan)
  [![Scratch Messages](https://img.shields.io/badge/dynamic/json?label=Messages&query=count&url=https%3A%2F%2Fapi.scratch.mit.edu%2Fusers%2F-Xanimation-%2Fmessages%2Fcount&color=ff5959&style=for-the-badge&logo=scratch&logoColor=fff)](https://scratch.mit.edu/users/-Xanimation-/)
@@ -13,12 +14,28 @@
 <hr>
 
 ### Some Bullet Points
-- 🌱 I use the prototyping tool [Figma](https://www.figma.com/) as my graphic design platform, even though it's for prototyping. 
-- 👨‍💻 I don't know a lot about coding in general, but I use the block code language [Scratch](https://Scrach.mit.edu/).
-- 😄 I'm a male teenager who likes #ff5959 a little to much. I also like #59ff59 & #5959ff! 
-- 🎉 Check out [ScratchAddons](https://scratchaddons.com/), the best extension ever for the Scratch website. ([I helped](https://scratchaddons.com/contributors)!) 
-- 🙊 Also make sure you look into **[this](https://github.com/hipvpitsme/discord-rpc-with-buttons)** cool thing for Discord. I love it and think you would too. 
-- 👨‍🎓 I am a student who received a few awesome things from the student developer pack. Get it **[here](https://education.github.com/pack/)**.
+- 🌱 Uses the prototyping tool [Figma](https://www.figma.com/) as my graphic design platform, even though it's for prototyping. 
+- 👨‍💻 Doesn't know a lot about coding in general, but I use the block code language [Scratch](https://Scrach.mit.edu/).
+- 😄 Is a male teenager who likes #ff5959 a little to much. I also like #59ff59 & #5959ff! 
+- 🎉 Checked out [ScratchAddons](https://scratchaddons.com/), the best extension ever for the Scratch website. ([I helped](https://scratchaddons.com/contributors)!) 
+- 🙊 Also made sure that everyone looks into **[this](https://github.com/hipvpitsme/discord-rpc-with-buttons)** cool thing for Discord. 
+- 👨‍🎓 Student who received a few awesome things from the student developer pack. Get it **[here](https://education.github.com/pack/)**.
+- 👏 So good at IO games it's not even funny. 😁 Games I'm good at: 
+
+<details open>
+ <summary>Click me <b>I'm cool</b> 😎</summary>
+
+1. [paper.io](https://paper-io.com/), 
+2. [combines.io](https://combines.io/), 
+3. [goosegame.io](https://goosegame.io/), 
+4. [hole.io](https://hole-io.com/), 
+5. [aquapark.io](https://aquapark.io/), 
+6. [narwhale.io](http://narwhale.io/), 
+7. [agarpaper.io](http://agarpaper.io/), 
+8. & [splix.io](https://splix.io/). 
+ 
+</details>
+
 
 <hr>
 
@@ -29,7 +46,7 @@
 <hr>
 
 ### Github Stats 
-[![Xan's GitHub stats](https://github-readme-stats.vercel.app/api?username=devxan&bg_color=30,ff5959,ff6969&title_color=fff&text_color=fff&icon_color=fff&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+> [![Xan's GitHub stats](https://github-readme-stats.vercel.app/api?username=devxan&bg_color=30,ff5959,ff6969&title_color=fff&text_color=fff&icon_color=fff&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
 
