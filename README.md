@@ -64,7 +64,7 @@ _ᕦ(ò_óˇ)ᕤ_
 
 ### Profile Creation
 
- > btw all images on my readme are linked to something 😏
+ > (btw all images on my readme are linked to something 😏)
 
 <details>
  <summary>I collapsed this all for you, you're welcome. 😀</summary>
