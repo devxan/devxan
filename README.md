@@ -74,21 +74,22 @@
 But you've opened it back up again! How rude! 😧 (Just kidding, it's perfectly fine to learn cool things. Just make sure to follow me if any of these help you!)
 
 I personally think that this profile it pretty cool, but it would be absolutely garbage without these various tools & examples. (I haven't tried some of these, tell me what you think! I'll have to read these thru later. 😳)
-- https://github.com/anuraghazra/github-readme-stats
-- https://github.com/abhisheknaiidu/awesome-github-profile-readme
-- https://github.com/ryo-ma/github-profile-trophy
 - https://github.com/marketplace?type=actions&query=readme (note to self - click all the buttons)
-- https://github.com/marketplace/actions/profile-readme
-- https://github.com/Readme-Workflows
 - https://vidyabhandary.github.io/blog/github/2020/07/27/Self-updating-profile-readme.html
-- https://visitor-badge.glitch.me/#docs
+- https://github.com/abhisheknaiidu/awesome-github-profile-readme
 - https://github.com/jamesgeorge007/github-activity-readme
-- https://github.com/ryo-ma/github-profile-trophy
-- https://github.com/DenverCoder1/readme-typing-svg
-- https://github.com/anmol098/waka-readme-stats
-- https://github.com/aralroca/aralroca
+- https://github.com/marketplace/actions/profile-readme
 - https://github.com/rishavanand/github-profilinator
+- https://github.com/anuraghazra/github-readme-stats
+- https://github.com/DenverCoder1/readme-typing-svg
+- https://github.com/ryo-ma/github-profile-trophy
+- https://github.com/ryo-ma/github-profile-trophy
+- https://github.com/anmol098/waka-readme-stats
+- https://miniwebtool.com/sort-text-by-length/
 - https://github.com/khalby786/REHeader
+- https://visitor-badge.glitch.me/#docs
+- https://github.com/aralroca/aralroca
+- https://github.com/Readme-Workflows
 - https://shields.io/
 
  </details>
