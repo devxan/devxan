@@ -55,11 +55,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/DoubleGremlin181/DoubleGremlin181/issues/1) in [DoubleGremlin181/DoubleGremlin181](https://github.com/DoubleGremlin181/DoubleGremlin181)
-2. ❗️ Opened issue [#2275](https://github.com/JonathanGin52/JonathanGin52/issues/2275) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
-3. 💪 Opened PR [#1](https://github.com/dotargz/OneSpark/pull/1) in [dotargz/OneSpark](https://github.com/dotargz/OneSpark)
-4. ❗️ Opened issue [#641](https://github.com/JessicaLim8/JessicaLim8/issues/641) in [JessicaLim8/JessicaLim8](https://github.com/JessicaLim8/JessicaLim8)
-5. 🗣 Commented on [#41](https://github.com/FlagClicked/FlagClicked/issues/41) in [FlagClicked/FlagClicked](https://github.com/FlagClicked/FlagClicked)
+1. ❗️ Opened issue [#645](https://github.com/JessicaLim8/JessicaLim8/issues/645) in [JessicaLim8/JessicaLim8](https://github.com/JessicaLim8/JessicaLim8)
+2. ❗️ Opened issue [#1](https://github.com/DoubleGremlin181/DoubleGremlin181/issues/1) in [DoubleGremlin181/DoubleGremlin181](https://github.com/DoubleGremlin181/DoubleGremlin181)
+3. ❗️ Opened issue [#2275](https://github.com/JonathanGin52/JonathanGin52/issues/2275) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
+4. 💪 Opened PR [#1](https://github.com/dotargz/OneSpark/pull/1) in [dotargz/OneSpark](https://github.com/dotargz/OneSpark)
+5. ❗️ Opened issue [#641](https://github.com/JessicaLim8/JessicaLim8/issues/641) in [JessicaLim8/JessicaLim8](https://github.com/JessicaLim8/JessicaLim8)
 <!--END_SECTION:activity-->
 
 <hr>
