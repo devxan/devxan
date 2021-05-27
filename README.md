@@ -74,7 +74,7 @@ But you've opened it back up again! How rude! 😧 (Just kidding, it's perfectly
 I personally think that this profile it pretty cool, but it would be absolutely garbage without these various tools & examples. (I haven't tried some of these, tell me what you think! I'll have to read these thru later. 😳)
 - https://github.com/anuraghazra/github-readme-stats
 - https://github.com/abhisheknaiidu/awesome-github-profile-readme
-- https://shields.io/
+- https://github.com/ryo-ma/github-profile-trophy
 - https://github.com/marketplace?type=actions&query=readme (note to self - click all the buttons)
 - https://github.com/marketplace/actions/profile-readme
 - https://github.com/Readme-Workflows
@@ -87,5 +87,6 @@ I personally think that this profile it pretty cool, but it would be absolutely 
 - https://github.com/aralroca/aralroca
 - https://github.com/rishavanand/github-profilinator
 - https://github.com/khalby786/REHeader
+- https://shields.io/
 
  </details>
