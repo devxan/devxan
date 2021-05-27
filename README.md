@@ -53,11 +53,11 @@ _ᕦ(ò_óˇ)ᕤ_
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/dotargz/OneSpark/pull/1) in [dotargz/OneSpark](https://github.com/dotargz/OneSpark)
-2. ❗️ Opened issue [#641](https://github.com/JessicaLim8/JessicaLim8/issues/641) in [JessicaLim8/JessicaLim8](https://github.com/JessicaLim8/JessicaLim8)
-3. 🗣 Commented on [#41](https://github.com/FlagClicked/FlagClicked/issues/41) in [FlagClicked/FlagClicked](https://github.com/FlagClicked/FlagClicked)
-4. ❗️ Closed issue [#1](https://github.com/retronbv/retronbv/issues/1) in [retronbv/retronbv](https://github.com/retronbv/retronbv)
-5. 🗣 Commented on [#1](https://github.com/retronbv/retronbv/issues/1) in [retronbv/retronbv](https://github.com/retronbv/retronbv)
+1. ❗️ Opened issue [#2275](https://github.com/JonathanGin52/JonathanGin52/issues/2275) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
+2. 💪 Opened PR [#1](https://github.com/dotargz/OneSpark/pull/1) in [dotargz/OneSpark](https://github.com/dotargz/OneSpark)
+3. ❗️ Opened issue [#641](https://github.com/JessicaLim8/JessicaLim8/issues/641) in [JessicaLim8/JessicaLim8](https://github.com/JessicaLim8/JessicaLim8)
+4. 🗣 Commented on [#41](https://github.com/FlagClicked/FlagClicked/issues/41) in [FlagClicked/FlagClicked](https://github.com/FlagClicked/FlagClicked)
+5. ❗️ Closed issue [#1](https://github.com/retronbv/retronbv/issues/1) in [retronbv/retronbv](https://github.com/retronbv/retronbv)
 <!--END_SECTION:activity-->
 
 <hr>
