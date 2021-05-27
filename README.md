@@ -69,7 +69,7 @@ _ᕦ(ò_óˇ)ᕤ_
 <details>
  <summary>I collapsed this all for you, you're welcome. 😀</summary>
 
-But you've opened it back up again! How rude! 😧 (Just kidding, it's perfectly fine to learn cool things. Just make sure to follow me if you use any of these!)
+But you've opened it back up again! How rude! 😧 (Just kidding, it's perfectly fine to learn cool things. Just make sure to follow me if any of these help you!)
 
 I personally think that this profile it pretty cool, but it would be absolutely garbage without these various tools & examples. (I haven't tried some of these, tell me what you think! I'll have to read these thru later. 😳)
 - https://github.com/anuraghazra/github-readme-stats
