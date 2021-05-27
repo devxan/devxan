@@ -85,5 +85,7 @@ I personally think that this profile it pretty cool, but it would be absolutely 
 - https://github.com/DenverCoder1/readme-typing-svg
 - https://github.com/anmol098/waka-readme-stats
 - https://github.com/aralroca/aralroca
+- https://github.com/rishavanand/github-profilinator
+- https://github.com/khalby786/REHeader
 
  </details>
