@@ -22,7 +22,7 @@
 - 🎉 Checked out [ScratchAddons](https://scratchaddons.com/), the best extension ever for the Scratch website. ([I helped](https://scratchaddons.com/contributors)!) 
 - 🙊 Also made sure that everyone looks into **[this](https://github.com/hipvpitsme/discord-rpc-with-buttons)** cool thing for Discord. 
 - 👨‍🎓 Student who received a few awesome things from the student developer pack. Get it **[here](https://education.github.com/pack/)**.
-- 👏 So good at IO games it's not even funny. 😁 Games I'm good at: 
+- 👏 Is so good at IO games it's not even funny. 😁 Games I'm good at: 
 
 <details open>
  <summary>Click me <b>I'm cool</b> 😎</summary>
