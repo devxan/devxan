@@ -55,11 +55,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#645](https://github.com/JessicaLim8/JessicaLim8/issues/645) in [JessicaLim8/JessicaLim8](https://github.com/JessicaLim8/JessicaLim8)
-2. ❗️ Opened issue [#1](https://github.com/DoubleGremlin181/DoubleGremlin181/issues/1) in [DoubleGremlin181/DoubleGremlin181](https://github.com/DoubleGremlin181/DoubleGremlin181)
-3. ❗️ Opened issue [#2275](https://github.com/JonathanGin52/JonathanGin52/issues/2275) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
-4. 💪 Opened PR [#1](https://github.com/dotargz/OneSpark/pull/1) in [dotargz/OneSpark](https://github.com/dotargz/OneSpark)
-5. ❗️ Opened issue [#641](https://github.com/JessicaLim8/JessicaLim8/issues/641) in [JessicaLim8/JessicaLim8](https://github.com/JessicaLim8/JessicaLim8)
+1. ❗️ Opened issue [#580](https://github.com/abhisheknaiidu/awesome-github-profile-readme/issues/580) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+2. ❗️ Opened issue [#645](https://github.com/JessicaLim8/JessicaLim8/issues/645) in [JessicaLim8/JessicaLim8](https://github.com/JessicaLim8/JessicaLim8)
+3. ❗️ Opened issue [#1](https://github.com/DoubleGremlin181/DoubleGremlin181/issues/1) in [DoubleGremlin181/DoubleGremlin181](https://github.com/DoubleGremlin181/DoubleGremlin181)
+4. ❗️ Opened issue [#2275](https://github.com/JonathanGin52/JonathanGin52/issues/2275) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
+5. 💪 Opened PR [#1](https://github.com/dotargz/OneSpark/pull/1) in [dotargz/OneSpark](https://github.com/dotargz/OneSpark)
 <!--END_SECTION:activity-->
 
 <hr>
