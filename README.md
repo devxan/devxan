@@ -1,7 +1,7 @@
 <a name="top"></a>
 # Hi there <a href="https://ppl.moe/u/xanny/" target="_blank"><img src="https://raw.githubusercontent.com/devxan/devxan/master/wave.gif" width="30px"></a> I'm devxan
 ### Scratcher and Graphic Designer
-(But everyone calls me Xan) _ᕦ(ò_óˇ)ᕤ_
+(But everyone calls me Xan) **_ᕦ(ò_óˇ)ᕤ_**
 
 [Scroll Down 🔽](#bottom)
 
