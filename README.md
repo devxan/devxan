@@ -76,6 +76,7 @@ But you've opened it back up again! How rude! 😧 (Just kidding, it's perfectly
 I personally think that this profile it pretty cool, but it would be absolutely garbage without these various tools & examples. (I haven't tried some of these, tell me what you think! I'll have to read these thru later. 😳)
 - https://github.com/marketplace?type=actions&query=readme (note to self - click all the buttons)
 - https://vidyabhandary.github.io/blog/github/2020/07/27/Self-updating-profile-readme.html
+- https://github.com/kautukkundan/Awesome-Profile-README-templates
 - https://github.com/abhisheknaiidu/awesome-github-profile-readme
 - https://github.com/jamesgeorge007/github-activity-readme
 - https://github.com/marketplace/actions/profile-readme
