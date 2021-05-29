@@ -25,7 +25,7 @@
 - 👏 Is so good at IO games it's not even funny. 😁 Games I'm good at: 
 
 <details open>
- <summary>Click me <b>I'm cool</b> 😎</summary>
+<summary>Click me <b>I'm cool</b> 😎</summary>
 
 1. [paper.io](https://paper-io.com/), 
 2. [combines.io](https://combines.io/), 
@@ -48,7 +48,7 @@
 <hr>
 
 ### Github Stats 
-> [![Xan's GitHub stats](https://github-readme-stats.vercel.app/api?username=devxan&bg_color=30,ff5959,ff6969&title_color=fff&text_color=fff&icon_color=fff&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+> [![Xan's GitHub stats](https://github-readme-stats.vercel.app/api?username=devxan&bg_color=30,ff5959,ff6969&title_color=fff&text_color=fff&icon_color=fff&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
 
@@ -95,8 +95,6 @@ I personally think that this profile it pretty cool, but it would be absolutely 
 
  </details>
 
-<a name="bottom"></a>
-
 <a href="#top">
   <table align="left">
       <tr>
@@ -106,3 +104,4 @@ I personally think that this profile it pretty cool, but it would be absolutely 
       </tr>
   </table>
 </a>
+<a name="bottom"></a>
