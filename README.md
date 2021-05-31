@@ -36,17 +36,17 @@
  
 </details>
 
-
+<a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@devxan" alt="Page Views" align="right"></a>
 <hr>
 
-### Connect
+### Connect 
 <a href="https://www.figma.com/@Xan/" target="_blank"><img src="https://raw.githubusercontent.com/devxan/devxan/master/icons/Figma.svg" alt="figma" width="80" height="80"/></a>
 <a href="https://scratch.mit.edu/users/-Xanimation-/" target="_blank"> <img src="https://raw.githubusercontent.com/devxan/devxan/master/icons/Scratch.svg" alt="scratch" width="160" height="80"/></a> <a href="https://discord.com/users/687328712084946973/" target="_blank"> <img src="https://raw.githubusercontent.com/devxan/devxan/master/icons/Discord.svg" alt="discord" width="80" height="80"/></a> <a href="https://replit.com/@Xanilan/" target="_blank"> <img src="https://raw.githubusercontent.com/devxan/devxan/master/icons/Replit.svg" alt="replit" width="80" height="80"/></a> <a href="https://github.com/devxan/devxan/discussions/" target="_blank"> <img src="https://raw.githubusercontent.com/devxan/devxan/master/icons/Github.svg" alt="github" width="80" height="80"/></a>
 
 <hr>
 
 ### Github Stats 
-> [![Xan's GitHub stats](https://github-readme-stats.vercel.app/api?username=devxan&bg_color=30,ff5959,ff6969&title_color=fff&text_color=fff&icon_color=fff&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+<blockquote><a href="https://github.com/anuraghazra/github-readme-stats/"><img src="https://github-readme-stats.vercel.app/api?username=devxan&bg_color=30,ff5959,ff6969&title_color=fff&text_color=fff&icon_color=fff&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide_title=true/" alt="GitHub Statistics"></a></blockquote>
 
 <hr>
 
