@@ -87,6 +87,7 @@ I personally think that this profile it pretty cool, but it would be absolutely 
 - https://miniwebtool.com/sort-text-by-length/
 - https://github.com/khalby786/REHeader
 - https://visitor-badge.glitch.me/#docs
+- https://github.com/lowlighter/metrics
 - https://github.com/aralroca/aralroca
 - https://github.com/Readme-Workflows
 - https://shields.io/
