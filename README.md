@@ -36,7 +36,6 @@
  
 </details>
 
-<a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@devxan" alt="Page Views" align="right"></a>
 <hr>
 
 ### Connect 
@@ -60,6 +59,7 @@
 5. 💪 Opened PR [#1](https://github.com/dotargz/OneSpark/pull/1) in [dotargz/OneSpark](https://github.com/dotargz/OneSpark)
 <!--END_SECTION:activity-->
 
+<a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@devxan" alt="Page Views" align="right"></a>
 <hr>
 
 ### Profile Creation
