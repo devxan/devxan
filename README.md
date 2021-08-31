@@ -23,7 +23,7 @@
 - 👏 Is so good at IO games it's not even funny. 😁 Games I'm good at: 
 
 <details open>
-<summary>Click me <b>I'm cool</b> 😎</summary>
+<summary>Click me <b>I'm cool</b> 😎 (because I am interactive!)</summary>
 
 1. [paper.io](https://paper-io.com/), 
 2. [combines.io](https://combines.io/), 
