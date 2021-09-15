@@ -52,10 +52,10 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2236](https://github.com/ScratchAddons/ScratchAddons/issues/2236) in [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons)
-2. 🗣 Commented on [#188](https://github.com/onedotprojects/auth/issues/188) in [onedotprojects/auth](https://github.com/onedotprojects/auth)
-3. ❗️ Opened issue [#188](https://github.com/onedotprojects/auth/issues/188) in [onedotprojects/auth](https://github.com/onedotprojects/auth)
-4. ❗️ Opened issue [#2275](https://github.com/JonathanGin52/JonathanGin52/issues/2275) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
+1. 🗣 Commented on [#3447](https://github.com/ScratchAddons/ScratchAddons/issues/3447) in [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons)
+2. 🗣 Commented on [#2236](https://github.com/ScratchAddons/ScratchAddons/issues/2236) in [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons)
+3. 🗣 Commented on [#188](https://github.com/onedotprojects/auth/issues/188) in [onedotprojects/auth](https://github.com/onedotprojects/auth)
+4. ❗️ Opened issue [#188](https://github.com/onedotprojects/auth/issues/188) in [onedotprojects/auth](https://github.com/onedotprojects/auth)
 5. 💪 Opened PR [#1](https://github.com/dotargz/OneSpark/pull/1) in [dotargz/OneSpark](https://github.com/dotargz/OneSpark)
 <!--END_SECTION:activity-->
 
