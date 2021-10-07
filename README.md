@@ -23,8 +23,8 @@
 - 👏 Is so good at IO games it's not even funny. 😁 Games I'm good at: 
 
 <details open>
-<summary>Click me <b>I'm cool</b> 😎 (because I am interactive!)</summary>
-
+<summary>Click me <b>I'm cool</b> 😎</summary>
+ 
 1. [paper.io](https://paper-io.com/), 
 2. [combines.io](https://combines.io/), 
 3. [goosegame.io](https://goosegame.io/), 
@@ -40,7 +40,7 @@
 
 ### Connect 
 <a href="https://www.figma.com/@Xan/" target="_blank"><img src="https://raw.githubusercontent.com/devxan/devxan/master/icons/Figma.svg" alt="figma" width="80" height="80"/></a>
-<a href="https://scratch.mit.edu/users/-Xanimation-/" target="_blank"> <img src="https://raw.githubusercontent.com/devxan/devxan/master/icons/Scratch.svg" alt="scratch" width="160" height="80"/></a> <a href="https://discord.com/users/687328712084946973/" target="_blank"> <img src="https://raw.githubusercontent.com/devxan/devxan/master/icons/Discord.svg" alt="discord" width="80" height="80"/></a> <a href="https://replit.com/@Xanilan/" target="_blank"> <img src="https://raw.githubusercontent.com/devxan/devxan/master/icons/Replit.svg" alt="replit" width="80" height="80"/></a> <a href="https://github.com/devxan/devxan/discussions/" target="_blank"> <img src="https://raw.githubusercontent.com/devxan/devxan/master/icons/Github.svg" alt="github" width="80" height="80"/></a>
+<a href="https://scratch.mit.edu/users/-Xanimation-/" target="_blank"> <img src="https://raw.githubusercontent.com/devxan/devxan/master/icons/Scratch.svg" alt="scratch" width="160" height="80"/></a> <a href="https://discord.com/users/687328712084946973/" target="_blank"> <img src="https://raw.githubusercontent.com/devxan/devxan/master/icons/Discord.svg" alt="discord" width="80" height="80"/></a> <a href="https://replit.com/@devxan/" target="_blank"> <img src="https://raw.githubusercontent.com/devxan/devxan/master/icons/Replit.svg" alt="replit" width="80" height="80"/></a> <a href="https://github.com/devxan/devxan/discussions/" target="_blank"> <img src="https://raw.githubusercontent.com/devxan/devxan/master/icons/Github.svg" alt="github" width="80" height="80"/></a>
 
 <hr>
 
