@@ -49,11 +49,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3447](https://github.com/ScratchAddons/ScratchAddons/issues/3447) in [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons)
-2. 🗣 Commented on [#2236](https://github.com/ScratchAddons/ScratchAddons/issues/2236) in [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons)
-3. 🗣 Commented on [#188](https://github.com/onedotprojects/auth/issues/188) in [onedotprojects/auth](https://github.com/onedotprojects/auth)
-4. ❗️ Opened issue [#188](https://github.com/onedotprojects/auth/issues/188) in [onedotprojects/auth](https://github.com/onedotprojects/auth)
-5. 💪 Opened PR [#1](https://github.com/dotargz/OneSpark/pull/1) in [dotargz/OneSpark](https://github.com/dotargz/OneSpark)
+1. 🗣 Commented on [#17139](https://github.com/FortAwesome/Font-Awesome/issues/17139) in [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome)
+2. 🗣 Commented on [#9336](https://github.com/FortAwesome/Font-Awesome/issues/9336) in [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome)
+3. 🗣 Commented on [#3447](https://github.com/ScratchAddons/ScratchAddons/issues/3447) in [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons)
+4. 🗣 Commented on [#2236](https://github.com/ScratchAddons/ScratchAddons/issues/2236) in [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons)
+5. 🗣 Commented on [#188](https://github.com/onedotprojects/auth/issues/188) in [onedotprojects/auth](https://github.com/onedotprojects/auth)
 <!--END_SECTION:activity-->
 
 <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@devxan" alt="Page Views" align="right"></a>
