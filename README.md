@@ -21,9 +21,7 @@
 - 🙊 Made you read this text. Because you read this text, I want you to know that I am making a website. 
 - 👨‍🎓 Student who received a few awesome things from the student developer pack. Get it **[here](https://education.github.com/pack/)**.
 - 👏 Is so good at two-dimensional IO games it's not even funny. 😁 Games I'm good at: 
-
-<details closed>
-<summary>Click me <b>I'm cool</b> 😎</summary>
+<ul><li><details closed><summary>Click me <b>I'm cool</b> 😎</summary>
  
 1. [paper.io](https://paper-io.com/), 
 2. [combines.io](https://combines.io/), 
@@ -33,8 +31,7 @@
 6. [narwhale.io](http://narwhale.io/), 
 7. [agarpaper.io](http://agarpaper.io/), 
 8. & [splix.io](https://splix.io/). 
- 
-</details>
+</details></li></ul>
 
 <hr>
 
