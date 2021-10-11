@@ -16,11 +16,11 @@
 ### Some Bullet Points
 - 🌱 Uses the prototyping tool [Figma](https://www.figma.com/) as my graphic design platform, even though it's for prototyping. 
 - 👨‍💻 Doesn't know a lot about coding in general, but I use the block code language [Scratch](https://Scrach.mit.edu/).
-- 😄 Is a male teenager who likes #ff5959 ![#ff5959](https://via.placeholder.com/15/ff5959/000000?text=+) (light red) a little to much. I also like #5959ff ![#5959ff](https://via.placeholder.com/15/5959ff/000000?text=+) (light blue) & #59ff59 ![#59ff59](https://via.placeholder.com/15/59ff59/000000?text=+) (light green)! 
+- 😄 Is a male teenager who likes ![#ff5959](https://via.placeholder.com/15/ff5959/000000?text=+) #ff5959 a little to much. I also like ![#5959ff](https://via.placeholder.com/15/5959ff/000000?text=+) #5959ff & ![#59ff59](https://via.placeholder.com/15/59ff59/000000?text=+) #59ff59! 
 - 🎉 Checked out [ScratchAddons](https://scratchaddons.com/), the best extension ever for the Scratch website. ([I helped](https://scratchaddons.com/contributors)!) 
-- 🙊 Also made sure that everyone looks into **[this](https://github.com/hipvpitsme/discord-rpc-with-buttons)** cool thing for Discord. 
+- 🙊 Made you read this text. Because you read this text, I want you to know that I am making a website. 
 - 👨‍🎓 Student who received a few awesome things from the student developer pack. Get it **[here](https://education.github.com/pack/)**.
-- 👏 Is so good at IO games it's not even funny. 😁 Games I'm good at: 
+- 👏 Is so good at two-dimensional IO games it's not even funny. 😁 Games I'm good at: 
 
 <details open>
 <summary>Click me <b>I'm cool</b> 😎</summary>
