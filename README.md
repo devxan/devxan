@@ -22,7 +22,7 @@
 - 👨‍🎓 Student who received a few awesome things from the student developer pack. Get it **[here](https://education.github.com/pack/)**.
 - 👏 Is so good at two-dimensional IO games it's not even funny. 😁 Games I'm good at: 
 
-<details open>
+<details closed>
 <summary>Click me <b>I'm cool</b> 😎</summary>
  
 1. [paper.io](https://paper-io.com/), 
