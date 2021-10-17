@@ -49,11 +49,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#359](https://github.com/Remix-Design/RemixIcon/issues/359) in [Remix-Design/RemixIcon](https://github.com/Remix-Design/RemixIcon)
-2. 🗣 Commented on [#17139](https://github.com/FortAwesome/Font-Awesome/issues/17139) in [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome)
-3. 🗣 Commented on [#9336](https://github.com/FortAwesome/Font-Awesome/issues/9336) in [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome)
-4. 🗣 Commented on [#3447](https://github.com/ScratchAddons/ScratchAddons/issues/3447) in [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons)
-5. 🗣 Commented on [#2236](https://github.com/ScratchAddons/ScratchAddons/issues/2236) in [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons)
+1. 💪 Opened PR [#29](https://github.com/Explosion-Scratch/OnDrop/pull/29) in [Explosion-Scratch/OnDrop](https://github.com/Explosion-Scratch/OnDrop)
+2. ❗️ Opened issue [#359](https://github.com/Remix-Design/RemixIcon/issues/359) in [Remix-Design/RemixIcon](https://github.com/Remix-Design/RemixIcon)
+3. 🗣 Commented on [#17139](https://github.com/FortAwesome/Font-Awesome/issues/17139) in [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome)
+4. 🗣 Commented on [#9336](https://github.com/FortAwesome/Font-Awesome/issues/9336) in [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome)
+5. 🗣 Commented on [#3447](https://github.com/ScratchAddons/ScratchAddons/issues/3447) in [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons)
 <!--END_SECTION:activity-->
 
 <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@devxan" alt="Page Views" align="right"></a>
