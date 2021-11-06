@@ -6,6 +6,6 @@
  [![Scratch Messages](https://img.shields.io/badge/dynamic/json?label=Messages&query=count&url=https%3A%2F%2Fapi.scratch.mit.edu%2Fusers%2F-Xanimation-%2Fmessages%2Fcount&color=ff5959&style=for-the-badge&logo=scratch&logoColor=fff)](https://scratch.mit.edu/users/-Xanimation-/)
  [![GitHub Followers](https://img.shields.io/github/followers/devxan?color=ff5959&logo=github&style=for-the-badge)](https://github.com/devxan?tab=followers/)
  [![Scratch Followers](https://img.shields.io/badge/dynamic/json?label=Followers&query=statistics.followers&url=https%3A%2F%2Fscratchdb.lefty.one%2Fv3%2Fuser%2Finfo%2F-Xanimation-&color=ff5959&style=for-the-badge&logo=scratch&logoColor=fff)](https://scratch.mit.edu/users/-Xanimation-/followers/)
- [![GitHub Latest Profile Commit](https://img.shields.io/github/last-commit/devxan/devxan?color=ff5959&logo=github&style=for-the-badge&label=Latest%20Profile%20Commit)](https://github.com/devxan/devxan/commits/master)
+ [![Last Profile Commit](https://img.shields.io/github/last-commit/devxan/devxan?color=ff5959&logo=github&style=for-the-badge&label=Last%20Commit)](https://github.com/devxan/devxan/commits/master)
 
 I'm currently working on a personal website that will look nice.
