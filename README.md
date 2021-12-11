@@ -9,3 +9,5 @@
  [![Last Profile Commit](https://img.shields.io/github/last-commit/devxan/devxan?color=ff5959&logo=github&style=for-the-badge&label=Last%20Commit)](https://github.com/devxan/devxan/commits/master)
 
 I'm currently working on a personal website that will look nice.
+
+![Snake animation](https://raw.githubusercontent.com/devxan/devxan/output/github-contribution-grid-snake.svg)
