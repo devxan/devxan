@@ -9,4 +9,6 @@
  [![Last Profile Commit](https://img.shields.io/github/last-commit/devxan/devxan?color=ff5959&logo=github&style=for-the-badge&label=Commited)](https://github.com/devxan/devxan/commits/master)
  
 I'm currently working on a personal website that will look nice.
-![Snake animation](https://raw.githubusercontent.com/devxan/devxan/output/github-contribution-grid-snake.svg)
+[![Snake animation](https://raw.githubusercontent.com/devxan/devxan/output/github-contribution-grid-snake.svg)](https://github.com/Platane/snk)
+
+Useful sites for internet noobs: [1](https://nohello.net) [2](https://dontasktoask.com) [3](https://xyproblem.info/) [4](https://readthedocs.vercel.app) [5](https://discord.gg/bUtXEtHKKC)
