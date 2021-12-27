@@ -11,4 +11,4 @@
 I'm gonna buy a domain and the GitHub pages site that I will put on it will look awesome.
 [![Snake animation](https://raw.githubusercontent.com/devxan/devxan/output/github-contribution-grid-snake.svg)](https://github.com/Platane/snk)
 
-Useful sites for internet noobs: [1](https://nohello.net) [2](https://dontasktoask.com) [3](https://xyproblem.info/) [4](https://readthedocs.vercel.app) [5](https://discord.gg/bUtXEtHKKC)
+Useful sites: [1](https://nohello.net) [2](https://dontasktoask.com) [3](https://xyproblem.info/) [4](https://readthedocs.vercel.app) [5](https://discord.gg/bUtXEtHKKC)
