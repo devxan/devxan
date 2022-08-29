@@ -1,5 +1,5 @@
 <a name="top"></a>
-# Hi there <a href="https://devxan.gq" target="_blank"><img src="https://raw.githubusercontent.com/devxan/devxan/master/wave.gif" width="10%"></a> <a href="https://devxan.gq" target="_blank">I'm Xan Surnamehere</a>
+# Hi there <a href="https://devxan.gq" target="_blank"><img src="https://raw.githubusercontent.com/devxan/devxan/master/wave.gif" height="40rem"></a> <a href="https://devxan.gq" target="_blank">I'm Xan Surnamehere</a>
 ### Assorted tech user
 
 [![Profile Visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=devxan.visitor.badge.reloaded&color=ff5959&style=for-the-badge&logo=github)](https://github.com/devxan)
