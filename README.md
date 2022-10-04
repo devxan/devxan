@@ -14,4 +14,4 @@ I bought [a domain](xan.lol) and I might pay for the site instead of a redirect.
 
 Useful sites: [1](https://nohello.net) [2](https://dontasktoask.com) [3](https://xyproblem.info/) [4](https://readthedocs.vercel.app) [5](https://discord.gg/bUtXEtHKKC)
 
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua/)
