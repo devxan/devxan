@@ -13,5 +13,3 @@ I bought [a domain](https://xan.lol) and paid for a no-code tool to code most of
 [![Snake animation](https://raw.githubusercontent.com/devxan/devxan/output/github-contribution-grid-snake.svg)](https://github.com/Platane/snk)
 
 Useful sites: [No Hello](https://nohello.net) | [Don't Ask to Ask](https://dontasktoask.com) | [XYZ Problem](https://xyproblem.info/) | [Read the Docs](https://readthedocs.vercel.app) | [Scratch × Discord](https://scratch.xan.lol) | [My community](https://xanation.xan.lol/) | [Discord servers](https://servers.xan.lol/)
-
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua/)
