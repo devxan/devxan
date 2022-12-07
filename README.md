@@ -5,7 +5,7 @@
 [![Profile Visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=devxan.visitor.badge.reloaded&color=ff5959&style=for-the-badge&logo=github)](https://github.com/devxan)
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCF072vYrYal3u8da_t7rBlg?color=ff5959&logo=youtube&logoColor=fff&style=for-the-badge)](https://www.youtube.com/channel/UCF072vYrYal3u8da_t7rBlg)
 [![GitHub User's Stars](https://img.shields.io/github/stars/devxan?affiliations=OWNER%2CORGANIZATION_MEMBER&color=ff5959&logo=github&logoColor=fff&style=for-the-badge)](https://github.com/devxan?tab=stars)
-[![Discord Members Online](https://img.shields.io/discord/805881494107193354?color=ff5959&logo=discord&logoColor=fff&style=for-the-badge)](https://discord.gg/bUtXEtHKKC)
+[![Discord Members Online](https://img.shields.io/discord/805881494107193354?color=ff5959&logo=discord&logoColor=fff&style=for-the-badge)](https://scratch.xan.lol)
 [![GitHub Followers](https://img.shields.io/github/followers/devxan?color=ff5959&logo=github&style=for-the-badge)](https://github.com/devxan?tab=followers/)
 [![Last Profile Commit](https://img.shields.io/github/last-commit/devxan/devxan?color=ff5959&logoColor=fff&logo=github&style=for-the-badge&label=Commited)](https://github.com/devxan/devxan/commits/master)
  
