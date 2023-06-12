@@ -3,7 +3,7 @@
 ### Assorted tech user
 
 
-I bought [a domain](https://xan.lol) and paid for a no-code tool to code most of it. Wonder if I'll ever learn to code more than a few lines... 💀
+I bought [a domain](https://xan.lol) and paid for a no-code tool to code most of it. Wonder if I'll ever learn to code more than a few lines... 🤔
 [![Snake animation](https://raw.githubusercontent.com/devxan/devxan/output/github-contribution-grid-snake.svg)](https://github.com/Platane/snk)
 
-Useful sites: [No Hello](https://nohello.net) | [Don't Ask to Ask](https://dontasktoask.com) | [XYZ Problem](https://xyproblem.info/) | [Read the Docs](https://readthedocs.vercel.app) | [Scratch × Discord](https://scratch.xan.lol) | [My community](https://xanation.xan.lol/) | [Discord servers](https://servers.xan.lol/)
+Useful sites: [No Hello](https://nohello.net) | [Don't Ask to Ask](https://dontasktoask.com) | [XYZ Problem](https://xyproblem.info/) | [Read the Docs](https://readthedocs.vercel.app) | [Discord servers](https://servers.xan.lol/)
