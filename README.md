@@ -5,7 +5,7 @@
 
 I have [a domain](https://xan.lol) and a nice website on it. Someday I might make a new version! 🤔 
 
-(If you see this text, contact me saying ADD [ONEKO](https://github.com/adryd325/oneko.js) TO YOUR [SITE](https://xan.lol/)!!!)
+(If you see this text, contact me saying ADD [ONEKO](https://github.com/adryd325/oneko.js) TO YOUR [SITE](https://xan.lol/)!!! ([drag](https://onekoneko.app/oneko.js)))
 
 [![Snake animation](https://raw.githubusercontent.com/devxan/devxan/output/github-contribution-grid-snake.svg)](https://github.com/Platane/snk)
 
