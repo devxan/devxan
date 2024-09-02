@@ -5,7 +5,7 @@ I have a [domain](https://xan.lol) and a nice [website](https://github.com/devxa
 
 Someday I might make a new version! 🤔 
 
-I'm super good at editing README files (never got around to coding...)! 
+I'm super good at editing README files (never got around to coding...)! I am the master README editor. :trollface: (also what is this doing)
 
 High interest in indie web ([mm](https://github.com/fazlabz-dev/openlink)) (free [stuff](https://github.com/wdhdev/free-for-life))
 
