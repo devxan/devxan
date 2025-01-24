@@ -1,7 +1,7 @@
 <a name="top"></a>
 # Hi, <a href="https://xan.lol" target="_blank">I'm Xan Surnamehere</a>
 
-[My website](https://xan.lol)'s code is currently hosted on [GitHub](https://github.com/devxan/site), but that might change as I put more stuff on the forgejo instance [git.gay](https://git.gay/xan).
+[My website](https://xan.lol)'s code is currently hosted on [GitHub](https://github.com/devxan/site), but that might change as I put more stuff on a forgejo instance.
 
 I have a grand plan of making a new version of my site using a jamstack builder and a ton of css & content.
 
