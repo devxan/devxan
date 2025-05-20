@@ -3,7 +3,7 @@
 
 [My website](https://xan.lol)'s code is currently hosted on [GitHub](https://github.com/devxan/site), 
 
-but that might change as I put more stuff on a forgejo instance like [Codeberg](https://codeberg.org/devxan/).
+but that might change as I put more stuff on a forgejo instance like [git.gay](https://git.gay/xan/).
 
 I have a grand plan of making a new version of my site using [11ty](https://www.11ty.dev/) and a ton of css & content.
 
