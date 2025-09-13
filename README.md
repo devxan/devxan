@@ -11,6 +11,6 @@ I'm super good at editing README files (never got around to coding...)! I am the
 
 High interest in indie web ([mm](https://github.com/fazlabz-dev/openlink)) (free [stuff](https://github.com/wdhdev/free-for-life))  :trollface: (also why does that exist here)
 
-Useful sites: [No Hello](https://nohello.net) | [Don't Ask to Ask](https://dontasktoask.com) | [XYZ Problem](https://xyproblem.info/) | [Read the Docs](https://readthedocs.vercel.app) | [Medium is bad](https://nomedium.dev/) 
+Useful sites: [No Hello](https://nohello.net) | [Don't Ask to Ask](https://dontasktoask.com) | [XYZ Problem](https://xyproblem.info/) | [Read the Docs](https://readthedocs.vercel.app) | [Medium is bad](https://nomedium.dev/) | [How To Ask Questions The Smart Way](http://www.catb.org/~esr/faqs/smart-questions.html)
 
 Check in on the status of my services https://status.xan.lol/
