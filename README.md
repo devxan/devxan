@@ -3,7 +3,7 @@
 
 [My website](https://xan.lol)'s code is currently hosted on [GitHub](https://github.com/devxan/site), 
 
-but that might change as I put more stuff on a forgejo instance like [git.gay](https://git.gay/xan/).
+but that might change as I move more stuff to [tangled.org](https://tangled.org/@xan.lol/xan.lol) (sorry [git.gay](https://git.gay/xan/)).
 
 I have a grand plan of making a new version of my site using [11ty](https://www.11ty.dev/) and a ton of css & content.
 
@@ -13,4 +13,4 @@ High interest in indie web ([mm](https://github.com/fazlabz-dev/openlink)) (free
 
 Useful sites: [No Hello](https://nohello.net) | [Don't Ask to Ask](https://dontasktoask.com) | [XYZ Problem](https://xyproblem.info/) | [Read the Docs](https://readthedocs.vercel.app) | [Medium is bad](https://nomedium.dev/) | [How To Ask Questions The Smart Way](http://www.catb.org/~esr/faqs/smart-questions.html)
 
-Check in on the status of my services https://status.xan.lol/
+Check in on the status of my services https://status.xan.lol/ (finally back status up 🗿)
